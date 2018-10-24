@@ -99,7 +99,7 @@ LEFT JOIN utilisateur as U2
 ON U2.id = SU.id_user
 WHERE S.id = 19
 
--- story 12 --
+-- story 12 -- hdyeè§!ru
 
 DELETE FROM service
 WHERE id=4
